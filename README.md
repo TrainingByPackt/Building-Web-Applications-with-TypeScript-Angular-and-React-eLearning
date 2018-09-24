@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-ReacteLearning.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning/pulls)
 
 
 # Building-Web-Applications-with-TypeScript-Angular-and-React
