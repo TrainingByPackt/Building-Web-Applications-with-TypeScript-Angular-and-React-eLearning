@@ -20,7 +20,7 @@ For an optimal experience, we recommend the following hardware configuration:
 ## Software requirements
 You’ll also need the following software installed in advance:
 * Windows 7 or later
-* [Visual Studio Code] (https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * You have to compile TypeScript in a terminal. On Windows, you can use Command Prompt and PowerShell
-* [Node.js] (https://nodejs.org/en/)
-* [MongoDB Community Server] (https://www.mongodb.com/download-center#atlas)
+* [Node.js](https://nodejs.org/en/)
+* [MongoDB Community Server](https://www.mongodb.com/download-center#atlas)
