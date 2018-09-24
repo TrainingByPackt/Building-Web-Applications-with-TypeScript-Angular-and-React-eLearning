@@ -1,0 +1,1 @@
+{"version":3,"sources":["shared/api.ts"],"names":[],"mappings":"","file":"api.js","sourcesContent":["export interface LoginResult {\n\tok: boolean;\n\tmessage?: string;\n}\nexport interface MenuResult {\n\titems: MenuItem[];\n}\nexport interface MenuItem {\n\tid: string;\n\ttitle: string;\n}\nexport interface ItemResult {\n\tid: string;\n\tcontent: string;\n}\n"]}

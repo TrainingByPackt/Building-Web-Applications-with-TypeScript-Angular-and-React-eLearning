@@ -1,0 +1,41 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "gulp-uglify": "^3.0.1",
+    "merge2": "^1.2.2",
+    "mongodb": "^2.2.33",
+    "tsify": "^4.0.0",
+    "typescript": "^3.0.3",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "@angular/common": "^6.1.7",
+    "@angular/compiler": "^6.1.7",
+    "@angular/core": "^6.1.7",
+    "@angular/forms": "^6.1.7",
+    "@angular/http": "^6.1.7",
+    "@angular/platform-browser": "^6.1.7",
+    "@angular/platform-browser-dynamic": "^6.1.7",
+    "reflect-metadata": "^0.1.12",
+    "zone.js": "^0.8.26",
+    "@types/mongodb": "^2.2.13",
+    "@types/node": "^10.9.4",
+    "es6-shim": "^0.35.3",
+    "phaethon": "^0.2.0",
+    "rxjs": "^6.3.2"
+  }
+}
