@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Building-Web-Applications-with-TypeScript-Angular-and-React-eLearning/pulls)
 
 
-# Building-Web-Applications-with-TypeScript-Angular-and-React
+# Building Web Applications with TypeScript Angular and React
 With the right balance of theory and hands-on activities, this course will help take your TypeScript skills to the next level. From understanding the basics to building interesting TypeScript projects, you’ll gain all the knowledge you need to create efficient web applications.
 
 ## What you will learn
